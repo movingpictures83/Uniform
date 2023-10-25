@@ -1,0 +1,2 @@
+Prefix plugins/Uniform/example/
+Plugin Uniform inputfile none outputfile output.txt
